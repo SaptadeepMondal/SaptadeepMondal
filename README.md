@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?logo=visualstudio&logoColor=white)
 
 ### 📈 Activity Graph
-![Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark)
+![Graph](https://github-readme-activity-graph.vercel.app/graph?username=SaptadeepMondal&theme=react-dark)
