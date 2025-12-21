@@ -19,7 +19,3 @@
 
 **Tools:**  
 `Git` `GitHub` `VSCode` `Linux` `Docker`
-
----
-
-⭐ *Thanks for visiting! Feel free to check out my work or reach out.*
