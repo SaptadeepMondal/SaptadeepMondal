@@ -3,7 +3,7 @@
 ### 🚀 About Me
 - 💻 Software Developer / Student  
 - 🌱 Currently learning: **Data Analytics**   
-- 🎯 Interests: **Data Science | GenAI **  
+- 🎯 Interests: **Data Science | GenAI**  
 
 ---
 
